@@ -1,6 +1,6 @@
 # OS LAB
 
-## This contains all the OS Lab programs. They are
+## This contains all the OS Lab programs.
 1. Scheduling Algorithms  
    - First Come First Serve(fcfs.c)  
     - Shortest Job First(sjf.c)  
