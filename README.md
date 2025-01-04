@@ -11,4 +11,4 @@
 
 3. Disk Scheduling Algorithm(disksch.c)
 
-4. Page Replacement Algorithm
+4. Page Replacement Algorithm(pagerep.c)
