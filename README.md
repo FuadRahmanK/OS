@@ -8,4 +8,4 @@
 
 2. Banker's Algorithm(bankers.c)
 
-3. 
+3. Disk Scheduling Algorithm(disksch.c)
